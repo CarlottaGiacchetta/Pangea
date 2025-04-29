@@ -11,7 +11,7 @@ work-dir/
 wandb/
 data/*
 data
-pretrained_models
+#pretrained_models
 # Scenes for mados tiny
 # Wow gitignore pattern mathcing is a mess
 !data/mados
